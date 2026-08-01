@@ -1,20 +1,115 @@
-<div align="center">📚 DataNis
+<div align="center">
 
-A curated collection of SIATEX Student Identification Number (NIS) data in JSON format.
+# 📚 DataNis
 
-"License" (https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-"JSON" (https://img.shields.io/badge/Format-JSON-green?style=for-the-badge)
-"Maintained" (https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge)
-"Open Source" (https://img.shields.io/badge/Open%20Source-❤-red?style=for-the-badge)
+### SIATEX Student Identification Number (NIS) Dataset
 
-</div>---
+![License](https://img.shields.io/badge/License-Unlicense-blue?style=for-the-badge)
+![JSON](https://img.shields.io/badge/Format-JSON-success?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-orange?style=for-the-badge)
 
-📖 About
+A structured collection of **SIATEX NIS** data in **JSON** format.
 
-DataNis is an open-source repository that provides SIATEX NIS data in a clean and structured JSON format.
+</div>
 
-It is designed for educational purposes, software development, testing, and data integration.
+---
 
+## 📖 About
+
+**DataNis** is an open-source repository containing SIATEX Student Identification Number (NIS) data stored in JSON format.
+
+This repository is intended for educational purposes, software development, testing, and research.
+
+---
+
+## ✨ Features
+
+- 📄 Structured JSON dataset
+- ⚡ Lightweight and easy to use
+- 📂 Organized project structure
+- 🚀 Developer-friendly
+- 🔓 Open Source
+
+---
+
+## 📂 Repository Structure
+
+```text
+DataNis/
+│
+├── data/
+│   └── List_Nis_Siatex.json
+│
+├── LICENSE
+└── README.md
+```
+
+---
+
+## 🚀 Usage
+
+Clone this repository
+
+```bash
+git clone https://github.com/taufiq876/DataNis.git
+```
+
+or download the JSON file directly from GitHub.
+
+---
+
+## 📋 Example
+
+```json
+{
+  "nis": "123456789",
+  "name": "Example Student"
+}
+```
+
+---
+
+## 🎯 Use Cases
+
+- Android Development
+- Web Development
+- API Testing
+- JSON Learning
+- Research
+- Educational Projects
+
+---
+
+## ⚠️ Disclaimer
+
+This repository is provided for educational, research, and development purposes only.
+
+Please ensure that any use of the data complies with applicable laws and institutional policies.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+If you have improvements or additional datasets, feel free to open an Issue or submit a Pull Request.
+
+---
+
+## 📜 License
+
+This project is distributed under the **Unlicense**.
+
+---
+
+<div align="center">
+
+Made with ❤️ by **Taufiq**
+
+⭐ If this repository is useful, don't forget to leave a star.
+
+</div>
 ---
 
 ✨ Features
