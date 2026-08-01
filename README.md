@@ -38,8 +38,11 @@ The dataset is intended for educational purposes, software development, testing,
 
 ```text
 📦 DataNis
-├── 📂 data
-│   └── 📄 List_Nis_Siatex.json
+├── 📂 Data
+│   ├── 📄 List_Nis_Siatex.json
+│   ├── 🖼️ Screenshot_20260803-183743.jpg
+│   └── 🖼️ Screenshot_20260803-183821.jpg
+├── 📄 .gitignore
 ├── 📜 LICENSE
 └── 📘 README.md
 ```
