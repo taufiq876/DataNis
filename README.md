@@ -9,7 +9,7 @@
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-orange?style=for-the-badge)
 
-A structured collection of **SIATEX NIS** data in **JSON** format.
+A structured collection of **SIATEX Student Identification Number (NIS)** data in **JSON** format.
 
 </div>
 
@@ -17,18 +17,19 @@ A structured collection of **SIATEX NIS** data in **JSON** format.
 
 ## 📖 About
 
-**DataNis** is an open-source repository containing SIATEX Student Identification Number (NIS) data stored in JSON format.
+**DataNis** is an open-source repository that provides a structured collection of SIATEX Student Identification Number (NIS) data in JSON format.
 
-This repository is intended for educational purposes, software development, testing, and research.
+The dataset is intended for educational purposes, software development, testing, and research.
 
 ---
 
 ## ✨ Features
 
 - 📄 Structured JSON dataset
-- ⚡ Lightweight and easy to use
-- 📂 Organized project structure
+- ⚡ Easy to integrate
+- 📂 Organized repository
 - 🚀 Developer-friendly
+- 📦 Lightweight
 - 🔓 Open Source
 
 ---
@@ -36,26 +37,24 @@ This repository is intended for educational purposes, software development, test
 ## 📂 Repository Structure
 
 ```text
-DataNis/
-│
-├── data/
-│   └── List_Nis_Siatex.json
-│
-├── LICENSE
-└── README.md
+📦 DataNis
+├── 📂 data
+│   └── 📄 List_Nis_Siatex.json
+├── 📜 LICENSE
+└── 📘 README.md
 ```
 
 ---
 
-## 🚀 Usage
+## 🚀 Getting Started
 
-Clone this repository
+Clone this repository:
 
 ```bash
 git clone https://github.com/taufiq876/DataNis.git
 ```
 
-or download the JSON file directly from GitHub.
+Or simply download the JSON file directly from GitHub.
 
 ---
 
@@ -70,115 +69,44 @@ or download the JSON file directly from GitHub.
 
 ---
 
-## 🎯 Use Cases
+## 💡 Use Cases
 
 - Android Development
 - Web Development
 - API Testing
 - JSON Learning
-- Research
-- Educational Projects
-
----
-
-## ⚠️ Disclaimer
-
-This repository is provided for educational, research, and development purposes only.
-
-Please ensure that any use of the data complies with applicable laws and institutional policies.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-If you have improvements or additional datasets, feel free to open an Issue or submit a Pull Request.
-
----
-
-## 📜 License
-
-This project is distributed under the **Unlicense**.
-
----
-
-<div align="center">
-
-Made with ❤️ by **Taufiq**
-
-⭐ If this repository is useful, don't forget to leave a star.
-
-</div>
----
-
-✨ Features
-
-- 📄 Clean JSON structure
-- ⚡ Easy integration
-- 🗂 Organized repository
-- 🚀 Developer-friendly
-- 📦 Lightweight
-- 🔓 Open Source
-
----
-
-📂 Project Structure
-
-DataNis/
-│
-├── data/
-│   └── List_Nis_Siatex.json
-│
-└── README.md
-
----
-
-🚀 Getting Started
-
-Clone this repository:
-
-git clone https://github.com/taufiq876/DataNis.git
-
-Or simply download the JSON file directly.
-
----
-
-💡 Use Cases
-
-- Application Development
-- API Testing
-- JSON Practice
 - Educational Projects
 - Research
 - Data Integration
 
 ---
 
-⚠ Disclaimer
+## ⚠️ Disclaimer
 
-This repository is provided for educational, research, and development purposes only.
+This repository is intended for educational, research, and software development purposes only.
 
-Please ensure that any use of the data complies with applicable laws, privacy regulations, and institutional policies.
-
----
-
-🤝 Contributing
-
-Contributions, improvements, and suggestions are welcome.
-
-Feel free to open an Issue or submit a Pull Request.
+Please ensure that any use of the data complies with applicable laws, regulations, and institutional policies.
 
 ---
 
-📄 License
+## 🤝 Contributing
 
-Distributed under the MIT License.
+Contributions, bug reports, feature requests, and improvements are always welcome.
+
+Feel free to open an **Issue** or submit a **Pull Request**.
 
 ---
 
-<div align="center">Made with ❤️ by Taufiq
+## 📜 License
 
-⭐ If you find this project useful, consider giving it a star.
+This project is released under the **Unlicense**.
+
+---
+
+<div align="center">
+
+### ⭐ Star this repository if you find it useful!
+
+Made with ❤️ by **Taufiq**
 
 </div>
